@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+psycopg2-binary
+sqlalchemy
+redis
+minio
+pydantic-settings
+pillow
+opencv-python
